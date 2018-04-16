@@ -65,6 +65,5 @@ for i in range(21):      # Número de páginas +1
 
 
 #Exportación del dataframe a un csv 
-dt = pd.DataFrame(lista_libros,columns=["Titulo", "Autor","Precio","Precio_socio"])
-print(len(dt))    
+dt = pd.DataFrame(lista_libros,columns=["Titulo", "Autor","Precio","Precio_socio"])    
 dt.to_csv(filename, index=False, header=True, sep=',',encoding='utf-8-sig')
