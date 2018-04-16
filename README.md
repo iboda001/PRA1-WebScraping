@@ -19,3 +19,8 @@ Para ejecutar el script será necesario instalar la siguientes bibliotecas:
 Como resultado se obtiene el **título**, **nombre del/de la autor/a**, **precio de venta**, **precio de venta para los clientes que dispongan de la tarjeta de fidelidad** y **el link relativo al libro en concreto** recogido en un archivo delimitado por comas (csv). 
 
 
+##Recursos
+<ul>
+  <li>Masip, D. (2010). El lenguaje Python. Editorial UOC</li>
+  <li>Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.</li>
+</ul>
