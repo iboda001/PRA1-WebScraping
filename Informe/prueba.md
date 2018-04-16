@@ -3,6 +3,7 @@
 **Título**:
 **Subtítulo:**
 **Imagen**
-
-###Contexto
-###Contenido
+<ul>
+  <li>Contexto</li>
+  <li>Contenido</li>
+</ul>
