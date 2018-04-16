@@ -36,7 +36,7 @@ La idea de la construcción del conjunto de datos nace de mi interés hacia la l
 Seleccionad una de estas licencias y decid por qué la habéis seleccionado: 
   <ul>
     <li>Released Under CC0: Public Domain License</li>
-    <li>**Released Under CC BY-NC-SA 4.0 License**</li>
+    <li>Released Under CC BY-NC-SA 4.0 License</li>
   
     <li>Released Under CC BY-SA 4.0 License</li> 
     <li>Database released under Open Database License, individual contents under Database Contents License</li> 
