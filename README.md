@@ -6,9 +6,12 @@ En esta primera práctica de la asignatura Tipología y ciclo de vida de los dat
 
 Para ejecutar el script será necesario instalar la siguientes bibliotecas:
 
-`pip install pandas`
+`pip install pandas` 
+
 `pip install requests`
+
 `pip install ssl`
+
 `pip install beautifulsoup4`
 
 ## DATASET RESULTANTE
