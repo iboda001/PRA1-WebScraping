@@ -13,6 +13,10 @@ El conjunto de datos generado en esta práctica recoge las características prin
 
 <h3>Imagen </h3> 
 
+La página web de donde se han extraido los datos es de la siguiente manera:
+
+<img src="imagen-elkar.png" alt="Imagen página web Elkar">
+
 <h3>Contexto</h3> 
 
 Los datos han sido recolectados desde página web de la librería más importate de la CAV: [Elkar Liburu Denda](https://www.elkar.eus/). Estos establecimientos venden libros, música, e-books, papelería, juguetería educacional... Para poder extraer solo los datos que nos interesaban, se han hecho uso de técnicas de <i>Web Scraping</i> aplicadas mediante el lenguaje de programación Python.
