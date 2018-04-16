@@ -5,7 +5,7 @@ El objetivo de esta actividad será la creación de un dataset a partir de los d
 
 <h3>Título del dataset</h3> 
 
-Libros ofertados en la web de Elkar Liburu Denda.
+Libros ofertados en la página web de la librería <i>Elkar Liburu Denda</i>.
   
 <h3>Subtítulo del dataset</h3> 
 
@@ -24,6 +24,7 @@ Las variables que se recogen en el conjunto de datos son el <b>título</b> (cade
  
 <h3>Agradecimientos</h3>  
 
+Como se ha mencionado anteriormente, el conjunto de datos se ha generado desde la página web de [Elkar Liburu Denda](https://www.elkar.eus/), el objetivo no ha sido en ningún momento obtener beneficio económico y se han tomado las medidas necesarias para evitar la vulneración de los derechos de propiedad intelectual de los titulares de la página web. 
 
  
 <h3>Inspiración</h3>  
@@ -35,12 +36,16 @@ La idea de la construcción del conjunto de datos nace de mi interés hacia la l
 Seleccionad una de estas licencias y decid por qué la habéis seleccionado: 
   <ul>
     <li>Released Under CC0: Public Domain License</li>
-    <li>Released Under CC BY-NC-SA 4.0 License</li>
+    <li>**Released Under CC BY-NC-SA 4.0 License**</li>
+  
     <li>Released Under CC BY-SA 4.0 License</li> 
     <li>Database released under Open Database License, individual contents under Database Contents License</li> 
     <li>Other (specified above) </li> 
     <li>Unknown License</li> 
   </ul>
+  
+  La licencia escogida para la publicación de este conjunto de datos ha sido CC BY-NA 4.0 License. Por los siguientes motivos: se debe otorgar el crédito apropiado, proporcionar un enlace a la licencia e indicar si se realizan cambios, no puede usarse el material con fines comerciales y en el caso de que se remixe, transforme o construya sobre el material, debe distribuir sus contribuciones bajo la misma licencia que el original.
+  
  
 <h3>Código</h3> 
 
