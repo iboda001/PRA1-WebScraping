@@ -22,6 +22,8 @@ El objetivo de esta actividad será la creación de un dataset a partir de los d
     <li>Unknown License</li> 
   </ul>
  <li>Código: Hay que adjuntar el código con el que habéis generado el dataset, preferiblemente con R o Python, que os ha ayudado a generar el dataset </li>
+ El código con el que se ha generado el dataset, generado en Python, está en la carpeta **Código**.
  <li>Dataset: Dataset en formato CSV </li>
+ El Dataset generado está en la carpeta **Fichero-csv**.
 
 <ol>
