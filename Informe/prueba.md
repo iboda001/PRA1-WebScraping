@@ -32,9 +32,11 @@ El conjunto de datos generado como parte de esta actividad práctica reúne dife
   </ul>
  
  <li>Código: Hay que adjuntar el código con el que habéis generado el dataset, preferiblemente con R o Python, que os ha ayudado a generar el dataset </li>
- El código con el que se ha generado el dataset, generado en Python, está en la carpeta <b>Código</b>.
+ <br>
+ <i>El código con el que se ha generado el dataset, generado en Python, está en la carpeta <b>Código</b>.</i>
  
  <li>Dataset: Dataset en formato CSV </li>
- El Dataset generado está en la carpeta <b>Fichero-csv</b>.
+ <br>
+ <i>El Dataset generado está en la carpeta <b>Fichero-csv</b>.</i>
 
 <ol>
