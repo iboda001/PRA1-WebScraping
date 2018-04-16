@@ -4,26 +4,27 @@ El objetivo de esta actividad será la creación de un dataset a partir de los d
 
 
 <h3>Título del dataset</h3> 
+
+Libros ofertados en la web de Elkar Liburu Denda.
   
 <h3>Subtítulo del dataset</h3> 
-  
-  
+
 El conjunto de datos generado en esta práctica recoge las características principales de los libros disponibles en [Elkar Liburu Denda](https://www.elkar.eus/). Las variables que se recogen en el conjunto de datos son el título, el autor / la autora, precio de venta, precio de venta para los clientes que disponen de la Tarjeta Cliente y el link que contiene información aún más detallada.
 
 <h3>Imagen </h3> 
 
 <h3>Contexto</h3> 
 
-Los datos han sido recolectados desde página web de la librería más importate de la CAV: [Elkar Liburu Denda](https://www.elkar.eus/). Para ello, se han hecho uso de técnicas de <i>Web Scraping</i> aplicadas mediante el lenguaje de programación Python.
+Los datos han sido recolectados desde página web de la librería más importate de la CAV: [Elkar Liburu Denda](https://www.elkar.eus/). Estos establecimientos venden libros, música, e-books, papelería, juguetería educacional... Para poder extraer solo los datos que nos interesaban, se han hecho uso de técnicas de <i>Web Scraping</i> aplicadas mediante el lenguaje de programación Python.
 
 <h3>Contenido</h3> 
 
-¿Qué campos incluye? ¿Cuál es el periodo de tiempo de los datos y cómo se ha recogido? 
- 
+Las variables que se recogen en el conjunto de datos son el <b>título</b> (cadena de caracteres), <b>el autor / la autora</b> (cadena de caracteres), <b>precio de venta</b> (float), <b>precio de venta para los clientes que disponen de la Tarjeta Cliente</b> (float) y <b>el link</b> que contiene información aún más detallada (cadena de caracteres).
+
  
 <h3>Agradecimientos</h3>  
 
-¿Quién es propietario del conjunto de datos? Incluid citas de investigación o análisis anteriores. 
+
  
 <h3>Inspiración</h3>  
 
